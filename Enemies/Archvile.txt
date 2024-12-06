@@ -1,0 +1,1 @@
+{"name": "Archvile", "hp": "6000 (SP) ", "speed": "Slow", "description": "Infernal Priest", "rank": "Super Heavy", "image": "https://static.wikia.nocookie.net/doom/images/c/c2/Ddtii4g-e16d513e-f171-4ca3-9f79-68d655b73c9b.png/revision/latest?cb=20230909063938"}

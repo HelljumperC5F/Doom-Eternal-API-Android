@@ -1,0 +1,1 @@
+{"name": "Combat Shotgun", "weapon_type": "Shotgun", "fire_mode": "Pump-Action", "location": "Hell on Earth", "damage": "320 (SP)", "ammo_type": "Shells", "image": "https://static.wikia.nocookie.net/doom/images/7/7c/Combat.png/revision/latest?cb=20240215203103"}

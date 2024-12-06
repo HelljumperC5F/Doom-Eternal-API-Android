@@ -1,0 +1,1 @@
+{"name": "Tyrant", "hp": "10,000", "speed": "Slow", "description": "Synthetic (Cybernetic Clone of Harbinger of Doom)", "rank": "Super Heavy (Level 4)", "image": "https://static.wikia.nocookie.net/doom/images/e/ef/2878B5A5-ADDC-4A0E-B787-2620B252DE18.png/revision/latest?cb=20200523042030"}

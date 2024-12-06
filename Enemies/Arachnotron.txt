@@ -1,0 +1,1 @@
+{"name": "Arachnotron", "hp": "3000", "speed": "Medium", "description": "Synthetic (Cybernetic Clone of Spider Mastermind)", "rank": "Heavy", "image": "https://static.wikia.nocookie.net/doom/images/1/1c/Arachnotron_DE.png/revision/latest?cb=20220914201033"}

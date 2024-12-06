@@ -1,0 +1,1 @@
+{"name": "Marauder", "hp": "5000 (SP)", "speed": "Very Fast", "description": "Corrupted Night Sentinel", "rank": "Boss, Super Heavy", "image": "https://static.wikia.nocookie.net/doom/images/9/99/Marauder_Infobox_DoomEternal.PNG/revision/latest?cb=20230909063217"}

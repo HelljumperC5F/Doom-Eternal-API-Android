@@ -1,0 +1,1 @@
+{"name": "Pain Elemental", "hp": "5000 (SP)", "speed": "Medium", "description": "Lost Soul Spawner", "rank": "Heavy", "image": "https://static.wikia.nocookie.net/doom/images/a/a6/Ddtdr8b-b0c2ffe1-d53d-48ae-a9af-3f9b26da6ed7.png/revision/latest?cb=20230909064440"}

@@ -1,0 +1,1 @@
+{"name": "Icon of Sin", "hp": "45000", "speed": "Static", "description": "Unpowered Marionette", "rank": "Bad guy", "image": "https://static.wikia.nocookie.net/doom/images/8/8d/Tumblr_348ee12dc47faab2f96bb702a0e6ab3f_8dd7a1fc_1280.png/revision/latest?cb=20200426073953"}

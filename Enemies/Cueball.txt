@@ -1,0 +1,1 @@
+{"name": "Cueball", "hp": "1", "speed": "Static", "description": "Former Human", "rank": "Ambient", "image": "https://static.wikia.nocookie.net/doom/images/4/46/Cueball.png/revision/latest?cb=20200405025601"}

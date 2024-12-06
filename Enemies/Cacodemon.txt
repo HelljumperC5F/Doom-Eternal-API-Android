@@ -1,0 +1,1 @@
+{"name": "Cacodemon", "hp": "2500", "speed": "Medium", "description": "Devourer", "rank": "Heavy", "image": "https://static.wikia.nocookie.net/doom/images/3/3b/Cacodemon_Eternal.png/revision/latest?cb=20230909063612"}

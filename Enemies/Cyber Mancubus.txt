@@ -1,0 +1,1 @@
+{"name": "Cyber Mancubus", "hp": "6000 (SP)", "speed": "Slow", "description": "Enhanced", "rank": "Heavy", "image": "https://static.wikia.nocookie.net/doom/images/3/3c/Ddtovk2-343681b6-c958-451b-8512-162916ea18ce.png/revision/latest?cb=20230909204724"}

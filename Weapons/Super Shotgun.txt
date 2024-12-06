@@ -1,0 +1,1 @@
+{"name": "Super Shotgun", "weapon_type": "Shotgun", "fire_mode": "Double", "location": "Cultist Base", "damage": "1600 (SP)", "ammo_type": "Shells", "image": "https://static.wikia.nocookie.net/doom/images/3/3c/Supershotgun.jpg/revision/latest?cb=20241016045606"}

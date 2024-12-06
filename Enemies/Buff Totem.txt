@@ -1,0 +1,1 @@
+{"name": "Buff Totem", "hp": "Glory Kill Only", "speed": "Static", "description": "Demonic Object", "rank": "Ambient", "image": "https://static.wikia.nocookie.net/doom/images/8/82/2m3bm.jpg/revision/latest?cb=20200414064930"}

@@ -1,0 +1,1 @@
+{"name": "Rocket Launcher", "weapon_type": "Shoulder-launched weapon", "fire_mode": "Semi-automatic", "location": "Cultist Base", "damage": "600 (SP)", "ammo_type": "Rockets", "image": "https://static.wikia.nocookie.net/doom/images/4/41/Paingiver.png/revision/latest?cb=20240215202043"}

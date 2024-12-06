@@ -1,0 +1,1 @@
+{"name": "Mecha Zombie", "hp": "500", "speed": "Slow", "description": "Cybernetically Enhanced Former Human", "rank": "Fodder", "image": "https://static.wikia.nocookie.net/doom/images/f/fd/Mecha_Zombie.png/revision/latest?cb=20230915235641"}

@@ -1,0 +1,1 @@
+{"name": "Prowler", "hp": "800", "speed": "Fast", "description": "Teleporting Hunter", "rank": "Heavy", "image": "https://static.wikia.nocookie.net/doom/images/3/37/The_Prowler.png/revision/latest?cb=20240319221229"}

@@ -1,0 +1,1 @@
+{"name": "Doom Hunter", "hp": "Sled: 5000", "speed": "Fast", "description": "Synthetic (Agaddon Hunter base)", "rank": "Boss, Super Heavy", "image": "https://static.wikia.nocookie.net/doom/images/3/35/Tumblr_c9390b82e9ef999e5386151d5cf217ae_6470d4fa_1280.png/revision/latest?cb=20200426074013"}

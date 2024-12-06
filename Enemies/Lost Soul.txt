@@ -1,0 +1,1 @@
+{"name": "Lost Soul", "hp": "100 (10 if spawned by Pain Elemental)", "speed": "Very Fast", "description": "Wayward Spirit", "rank": "Fodder", "image": "https://static.wikia.nocookie.net/doom/images/c/c0/Lost_Soul_Eternal.png/revision/latest?cb=20200405070821"}

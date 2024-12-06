@@ -1,0 +1,1 @@
+{"name": "Mancubus", "hp": "3500 (SP)", "speed": "Slow", "description": "Enhanced (possibly former human)", "rank": "Heavy", "image": "https://static.wikia.nocookie.net/doom/images/d/df/Mancubus_DE.png/revision/latest?cb=20240612055349"}

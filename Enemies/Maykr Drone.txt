@@ -1,0 +1,1 @@
+{"name": "Maykr Drone", "hp": "800", "speed": "Medium", "description": "Angelic Alien", "rank": "Heavy", "image": "https://static.wikia.nocookie.net/doom/images/d/de/Maykr_Drone.png/revision/latest?cb=20230909065604"}

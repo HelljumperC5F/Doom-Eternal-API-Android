@@ -1,0 +1,1 @@
+{"name": "Imp", "hp": "200", "speed": "Fast", "description": "Scavenger", "rank": "Fodder", "image": "https://static.wikia.nocookie.net/doom/images/7/74/Imp_Eternal.png/revision/latest?cb=20231031025926"}

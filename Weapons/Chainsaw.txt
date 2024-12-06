@@ -1,0 +1,1 @@
+{"name": "Chainsaw", "weapon_type": "Meelee", "fire_mode": "Single", "location": "Hell on Earth", "damage": "Instakill", "ammo_type": "Fuel", "image": "https://static.wikia.nocookie.net/doom/images/0/0e/Doom_eternal_chainsaw.png/revision/latest?cb=20200131015349"}

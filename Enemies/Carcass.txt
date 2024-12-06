@@ -1,0 +1,1 @@
+{"name": "Carcass", "hp": "1200", "speed": "Medium", "description": "Synthetic (Human Base)", "rank": "Heavy", "image": "https://static.wikia.nocookie.net/doom/images/4/43/Ddtihs6-2a409f53-4f0c-47f9-bf76-77b4439bb49a.png/revision/latest?cb=20230909204905"}

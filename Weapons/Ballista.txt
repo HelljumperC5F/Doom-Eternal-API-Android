@@ -1,0 +1,1 @@
+{"name": "Ballista", "weapon_type": "Precision rifle", "fire_mode": "semi-automatic", "location": "Fortress of Doom", "damage": "800 (SP)", "ammo_type": "Cells", "image": "https://static.wikia.nocookie.net/doom/images/d/d5/Ballista.png/revision/latest?cb=20240114182944"}

@@ -1,0 +1,1 @@
+{"name": "Chaingun", "weapon_type": "Machine Gun", "fire_mode": "Automatic", "location": "Super Gore Nest", "damage": "80 (SP)", "ammo_type": "Bullets", "image": "https://static.wikia.nocookie.net/doom/images/1/15/DoomChaingunET.png/revision/latest?cb=20240114182117"}

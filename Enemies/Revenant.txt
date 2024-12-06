@@ -1,0 +1,1 @@
+{"name": "Revenant", "hp": "2000 (SP)", "speed": "Fast", "description": "Argent/Cybernetically Enhanced Former Human", "rank": "Heavy", "image": "https://static.wikia.nocookie.net/doom/images/f/fb/DETRevenant.png/revision/latest?cb=20230909205520"}

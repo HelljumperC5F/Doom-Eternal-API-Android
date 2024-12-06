@@ -1,0 +1,1 @@
+{"name": "Plasma Rifle", "weapon_type": "Energy Weapon", "fire_mode": "Automatic", "location": "Exultia", "damage": "45 (SP)", "ammo_type": "Argent-type plasma", "image": "https://static.wikia.nocookie.net/doom/images/6/64/640cf14229f64d0fa210c6e538bc9154-removebg-preview.png/revision/latest?cb=20240114183222"}

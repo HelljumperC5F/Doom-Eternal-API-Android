@@ -1,0 +1,1 @@
+{"name": "Fireborne Baron", "hp": "7000", "speed": "Fast", "description": "Infernal Servant", "rank": "Super Heavy", "image": "https://static.wikia.nocookie.net/doom/images/c/cb/FireBorneBaron.png/revision/latest?cb=20230909203047"}

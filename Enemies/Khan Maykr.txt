@@ -1,0 +1,1 @@
+{"name": "Khan Maykr", "hp": "N/A", "speed": "Fast", "description": "Boss Battle", "rank": "Supreme Ruler of Urdak", "image": "https://static.wikia.nocookie.net/doom/images/e/e8/KhanMaykrRender.png/revision/latest?cb=20210503191712"}

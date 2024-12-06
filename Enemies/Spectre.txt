@@ -1,0 +1,1 @@
+{"name": "Spectre", "hp": "N/A", "speed": "Fast", "description": "Cloaked Charger", "rank": "Heavy", "image": "https://static.wikia.nocookie.net/doom/images/9/95/Spectre_Eternal.png/revision/latest?cb=20231023221617"}

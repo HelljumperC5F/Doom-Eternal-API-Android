@@ -1,0 +1,1 @@
+{"name": "Pinky", "hp": "N/A", "speed": "Fast", "description": "Armored Charger", "rank": "Heavy", "image": "https://static.wikia.nocookie.net/doom/images/d/d0/Pinky_Eternal.png/revision/latest?cb=20240128235233"}

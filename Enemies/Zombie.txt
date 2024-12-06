@@ -1,0 +1,1 @@
+{"name": "Zombie", "hp": "200", "speed": "Slow", "description": "Former Human", "rank": "Fodder", "image": "https://static.wikia.nocookie.net/doom/images/f/f0/Zombie_Eternal.png/revision/latest?cb=20241119013518"}

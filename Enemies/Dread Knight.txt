@@ -1,0 +1,1 @@
+{"name": "Dread Knight", "hp": "3500", "speed": "Fast", "description": "Enhanced", "rank": "Heavy", "image": "https://static.wikia.nocookie.net/doom/images/5/54/Dread_Knight.png/revision/latest?cb=20201215123015"}

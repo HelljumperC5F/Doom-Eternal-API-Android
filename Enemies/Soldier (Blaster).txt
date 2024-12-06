@@ -1,0 +1,1 @@
+{"name": "Soldier (Blaster)", "hp": "400", "speed": "Medium", "description": "Former Human Soldier", "rank": "Fodder", "image": "https://static.wikia.nocookie.net/doom/images/f/fe/Soldier_Eternal.png/revision/latest?cb=20220914201147"}

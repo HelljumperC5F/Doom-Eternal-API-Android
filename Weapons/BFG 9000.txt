@@ -1,0 +1,1 @@
+{"name": "BFG 9000", "weapon_type": "Energy Weapon", "fire_mode": "Semi-automatic", "location": "Mars Core", "damage": "Depends", "ammo_type": "Argent-type plasma", "image": "https://static.wikia.nocookie.net/doom/images/a/a4/47592.png/revision/latest?cb=20240215201522"}

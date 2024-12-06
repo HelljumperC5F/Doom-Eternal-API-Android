@@ -1,0 +1,1 @@
+{"name": "Hell Knight", "hp": "2500", "speed": "Fast", "description": "Warrior", "rank": "Heavy", "image": "https://static.wikia.nocookie.net/doom/images/6/68/Hell_knight_by_yare_yare_dong_ddtihx3-pre.png/revision/latest?cb=20230909204254"}

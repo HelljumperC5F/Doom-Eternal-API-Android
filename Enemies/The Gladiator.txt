@@ -1,0 +1,1 @@
+{"name": "The Gladiator", "hp": "N/A", "speed": "Fast", "description": "Slave Warrior", "rank": "Boss", "image": "https://static.wikia.nocookie.net/doom/images/5/57/Tumblr_26f07ba0d741d76e671e80e146e68331_33a50258_1280.png/revision/latest?cb=20200424222159"}

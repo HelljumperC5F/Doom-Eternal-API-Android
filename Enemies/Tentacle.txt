@@ -1,0 +1,1 @@
+{"name": "Tentacle", "hp": "200", "speed": "Static", "description": "Ambiental Trap", "rank": "Ambient", "image": "https://static.wikia.nocookie.net/doom/images/5/54/Tentacle.png/revision/latest?cb=20200406032847"}

@@ -1,0 +1,1 @@
+{"name": "Unmaykr", "weapon_type": "Super Weapon", "fire_mode": "Automatic, 700 RPM", "location": "Fortress of Doom", "damage": "2000", "ammo_type": "Argent Plasma", "image": "https://static.wikia.nocookie.net/doom/images/e/e4/Doom_Eternal_-_How_to_Unlock_the_UNMAKYR_Secret_Weapon_%28_With_Gameplay_%29_1-3_screenshot.png/revision/latest?cb=20240114181856"}

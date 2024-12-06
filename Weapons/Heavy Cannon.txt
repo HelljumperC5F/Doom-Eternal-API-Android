@@ -1,0 +1,1 @@
+{"name": "Heavy Cannon", "weapon_type": "Machine Gun", "fire_mode": "Automatic", "location": "Hell on Earth", "damage": "65 (SP)", "ammo_type": "Bullets", "image": "https://static.wikia.nocookie.net/doom/images/d/dd/Zwfdwaeu7p261.png/revision/latest?cb=20240114182316"}

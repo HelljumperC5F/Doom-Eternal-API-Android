@@ -1,0 +1,1 @@
+{"name": "Whiplash", "hp": "2000", "speed": "Fast", "description": "Cybernetically Enhanced Serpentine", "rank": "Heavy", "image": "https://static.wikia.nocookie.net/doom/images/6/66/Tumblr_beba33be1ba9d02bb619cfb281eb1b5d_dca26f1f_1280.png/revision/latest?cb=20230909065715"}
